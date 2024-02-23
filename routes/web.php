@@ -59,4 +59,4 @@ Route::prefix('admin')->group(function(){
             return 'Delete product';
         });
     });
-});
+}); 
